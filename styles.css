@@ -1,0 +1,78 @@
+.header {
+  background-color: #1f2937;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header-logo {
+  margin-left: 30px;
+}
+
+.header-links {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 8px;
+  margin-right: 30px;
+}
+
+.header-link-one {
+  
+}
+
+.website-title {
+  font-size: 48px;
+  font-weight: 800;
+  color: #F9FAF8
+}
+
+.page-top-left {
+  display: flex;
+  flex-direction: column;
+  width: 375px;
+}
+
+.large-image {
+  display: flex;
+  align-items: center; 
+}
+
+.footer {
+  background-color: #1f2937;
+}
+
+.page-top {
+  background-color: #1f2937;
+  display: flex;
+}
+
+/* .header-logo
+.header-links
+.header-link-one
+.header-link-two
+.header-link-three
+.page-top
+.paragraph-1
+.large-image
+.page-top-middle
+.large-type
+.middle-images
+.image-1
+.image-2
+.image-3
+.image-4
+.text-under-images
+.text-1
+.text-2
+.text-3
+.text-4
+.page-bottom-middle
+.quote
+.quote-attribute
+.page-bottom
+.big-box
+.text-on-left
+.top-text
+.bottom-text
+.sign-up-button */
